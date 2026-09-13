@@ -5,7 +5,7 @@
 // ============================================================================
 
 export const profile = {
-  name: 'vanetia h.',
+  name: 'vanetia',
   callsign: 'FL013', // shown in the footer, e.g. your initials or a cruising altitude
   role: 'jobless otter',
   tagline: 'professionally going with the flow.',
